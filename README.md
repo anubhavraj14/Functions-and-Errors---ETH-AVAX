@@ -83,8 +83,8 @@ Follow these steps to compile, deploy, and interact with the contract using Remi
 
 ## Authors
 
-- **Your Name**
-- @anubhavraj14
+- **Anubhav Raj**
+- [@anubhavraj554](https://academy.metacrafters.io/profile)
 
 ## License
 
